@@ -1,0 +1,12 @@
+{
+    "dimentions": 4,
+    "name": "point",
+    "points": [
+	[ 0, 0, 600, 0 ], 
+	[ 0, 0, 0, 0 ] 
+    ],
+    "edges": [
+	[ 0, 1 ]
+    ],
+    "center_point": [ 0, 0, 0, 0 ]
+}
